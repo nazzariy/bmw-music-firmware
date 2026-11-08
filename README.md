@@ -16,8 +16,8 @@ Bluetooth-музика для BMW E-серії з магнітолою CIC че�
 | `firmware/releases.json` | стабільні версії з описом (вибір версії, відкат) |
 | `firmware/releases-beta.json` | бета-канал |
 | `firmware/latest.json` | найновіша стабільна версія (для старих прошивок) |
-| `firmware/bmw-e70-<версія>.bin` | основна плата (ESP32-S3) |
-| `firmware/wroom-<версія>.bin` | аудіоплата (ESP32) |
+| `firmware/bmw-music-<версія>.bin` | основна плата (ESP32-S3) |
+| `firmware/bmw-music-audio-<версія>.bin` | аудіоплата (ESP32) |
 
 Кожен образ перевіряється на пристрої за SHA-256 із маніфесту.
 
